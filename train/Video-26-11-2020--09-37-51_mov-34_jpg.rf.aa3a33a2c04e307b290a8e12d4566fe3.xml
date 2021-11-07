@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Video-26-11-2020--09-37-51_mov-34_jpg.rf.aa3a33a2c04e307b290a8e12d4566fe3.jpg</filename>
+	<path>Video-26-11-2020--09-37-51_mov-34_jpg.rf.aa3a33a2c04e307b290a8e12d4566fe3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vertical_damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>297</xmin>
+			<xmax>341</xmax>
+			<ymin>173</ymin>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
